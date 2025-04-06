@@ -90,3 +90,6 @@ target/
 /experiment_info.json
 
 lgbm_model.pkl
+
+# In .gitignore, add:
+tfidf_vectorizer.pkl
